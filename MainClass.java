@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 public class MainClass {
-	static String FILE = "C:/Users/Rachita/workspace/KServer_Project_CABS/testing";
+	static String FILE = "KServer_Project/testing"; // Input file: First line: serverCount requentCount. Next requentCount lines: x y x y. Where x and y and coordinates of request locations.
 	static int serverCount;
 	static int reqCount;
 	static Graph G;
